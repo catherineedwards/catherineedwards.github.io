@@ -58,3 +58,31 @@ We're about to get the [pièce de résistance](http://en.brickimedia.org/wiki/Pi
 $ gem install bundler jekyll
 
 {% endhighlight %}
+
+### Create a new Jekyll project
+
+Now that you've installed Jekyll, you will be able to build a new Jekyll-based project. When you create a new project, Jekyll will create a directory and the initial scaffolding (i.e. the files needed to start the foundations of your project) in it.
+
+To create your new Jekyll project:
+
+{% highlight shell %}
+
+$ jekyll new my-new-blog
+
+$ cd my-new-blog
+
+{% endhighlight %}
+
+Have a look through your directory, and you should see a list of files and directories created to get you started.
+
+I'll talk through what's in the directory in another post.
+
+You should see that the Jekyll project is working for you. Run the following command to get your Jekyll site going:
+
+{% highlight shell %}
+
+$ bundle exec jekyll serve
+
+{% endhighlight %}
+
+This runs your Jekyll site locally on port 4000 by default. Browse to http://localhost:4000 in your web browser, and you should see a basic Jekyll site, waiting for your content and creativity to fill it!
