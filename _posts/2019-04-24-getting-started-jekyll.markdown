@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get started with Jekyll"
+title:  "Getting started with Jekyll"
 date:   2019-04-24 15:42:00 +1200
 categories: jekyll update
 ---
