@@ -5,8 +5,13 @@ permalink: /about/
 ---
 
 **Availability:** Immediate start
+
 **Based in**: Wellington, New Zealand
-**Get in touch**: [Email](mailto:catherine@edwards-au.com), [LinkedIn](https://www.linkedin.com/in/catherineedwardsnz/), [GitHub](https://github.com/catherineedwards/)
+
+**Get in touch**: 
+* [Email](mailto:catherine@edwards-au.com)
+* [LinkedIn](https://www.linkedin.com/in/catherineedwardsnz/)
+* [GitHub](https://github.com/catherineedwards/)
 
 Kia Ora! :wave: Thanks for visiting my little corner of the internet :house_with_garden:
 
